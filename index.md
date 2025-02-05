@@ -6,7 +6,7 @@ Living Sculptures Webring<br/><br/>
 - [Diego Behncke - A witness that hums: Diagram for the possibility of abductive synthesis]()
 - [Arbor – Three Points of Contact](https://www.derrekchow.com/three-points-of-contact)
 - [Leo Lou - MicroCatcher Concept](https://leol0u.github.io/MicroCatcher-LL/)
-- [Eva Ingver]()
+- [Eva Ingver]([)](https://evaingver.github.io/images/)
 - [Julia]()
 - [Ying Chen & Linden Derichs]()
 - [Linden Derichs - double empathy]()
